@@ -10,14 +10,16 @@
 - 🌱 I’m still learning **ML** and currently not working anywhere
 
 - 📫 You can reach me via telegram **https://t.me/Aydinthr** or my e-mail **aydintaherkhani2218@gmail.com**
-- 
+
 - ☕ I can speak English and Persian
 
 - 📚 Languages and frameworks : C/Java/JavaFX/**Python**
+  
+- ⚡ Fun fact **I think I am funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/aydin_thr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aydin_thr" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/aydinthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aydinthr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
