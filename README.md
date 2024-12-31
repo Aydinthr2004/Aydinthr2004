@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aydin</h1>
 
 
-- 👋 Hi, I’m @Aydinthr2004 a junior programmer and a computer engineering student in IKIU.
+- 👋 Hi, I’m Aydin a junior programmer and a computer engineering student in IKIU.
 
-- 🌱 I’m currently learning **ML** and currently not working anywhere
+- 🌱 I’m currently learning **ML** and not working anywhere
 
 - 👀 I’m interested in algorithms, AI and video games
-
-- 🌱 I’m still learning **ML** and currently not working anywhere
 
 - 📫 You can reach me via telegram **https://t.me/Aydinthr** or my e-mail **aydintaherkhani2218@gmail.com**
 
