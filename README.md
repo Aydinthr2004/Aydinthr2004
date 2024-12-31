@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aydin</h1>
 
 
-- 🌱 I’m currently learning **ML**
+- 👋 Hi, I’m @Aydinthr2004 a junior programmer and a computer engineering student in IKIU.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aydinthr2004?tab=repositories](https://github.com/Aydinthr2004?tab=repositories)
+- 🌱 I’m currently learning **ML** and currently not working anywhere
 
-- 📫 How to reach me **aydintaherkhani2218@gmail.com**
+- 👀 I’m interested in algorithms, AI and video games
+
+- 🌱 I’m still learning **ML** and currently not working anywhere
+
+- 📫 You can reach me via telegram **https://t.me/Aydinthr** or my e-mail **aydintaherkhani2218@gmail.com**
+- 
+- ☕ I can speak English and Persian
+
+- 📚 Languages and frameworks : C/Java/JavaFX/**Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
