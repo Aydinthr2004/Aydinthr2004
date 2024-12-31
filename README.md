@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **aydintaherkhani2218@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aydin_thr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aydin_thr" height="30" width="40" /></a>
