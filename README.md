@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Aydin a junior programmer and a computer engineering student in IKIU.
 
-- 🌱 I’m currently learning **ML** and not working anywhere
+- 🌱 I’m currently learning **ML**
 
 - 👀 I’m interested in algorithms, AI and video games
 
