@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aydin</h1>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F7FFF&width=435&lines=Python+Developer;AI+Enthusiast)
 
 
@@ -59,6 +57,14 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aydinthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydinthr" height="30" width="40" /></a>
+<a href="https://kaggle.com/aydinthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aydinthr" height="30" width="40" /></a>
+<a href="https://instagram.com/aydin_thr04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aydin_thr04" height="30" width="40" /></a>
 </p>
 
 
