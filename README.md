@@ -1,7 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F7FFF&width=435&lines=Python+Developer;AI+Enthusiast)
-
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+
+
+
 
 - 👋 Hi, I’m Aydin a junior programmer and a computer engineering student in IKIU.
 
@@ -72,7 +72,7 @@
 
 
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F7FFF&width=435&lines=Python+Developer;AI+Enthusiast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydinthr2004&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
